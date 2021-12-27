@@ -376,7 +376,7 @@ section .title::after{
 }
 
 .skills-content .right .html::before{
-    width: 90%;
+    width: 80%;
 }
 
 .skills-content .right .css::before{
@@ -384,7 +384,7 @@ section .title::after{
 }
 
 .skills-content .right .javascript::before{
-    width: 30%;
+    width: 60%;
 }
 
 .skills-content .right .python::before{
@@ -395,6 +395,9 @@ section .title::after{
     width: 40%;
 }
 
+.skills-content .right .ts::before{
+    width: 30%;
+}
 
 .skills .skills-content .left a{
     background: crimson;
